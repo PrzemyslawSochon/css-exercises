@@ -1,10 +1,10 @@
 .black-white {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .yellow-bg {
-    background-color: yellow;
+    background-color: #ffff00;
 }
 
 .black-white, .yellow-bg {
