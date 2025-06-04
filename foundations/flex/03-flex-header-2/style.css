@@ -16,6 +16,10 @@ body {
   justify-content: space-between;
 }
 
+.left-edge, .right-edge {
+  display: flex;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
@@ -47,4 +51,5 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
 }
