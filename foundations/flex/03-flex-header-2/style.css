@@ -14,12 +14,12 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
+  padding: 8px;
 }
 
 .left-edge, .right-edge {
   display: flex;
   align-items: center;
-  margin: 6px;
   gap: 20px;
 }
 
