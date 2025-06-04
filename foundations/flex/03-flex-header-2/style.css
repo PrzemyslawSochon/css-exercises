@@ -18,6 +18,9 @@ body {
 
 .left-edge, .right-edge {
   display: flex;
+  align-items: center;
+  margin: 6px;
+  gap: 20px;
 }
 
 .profile-image {
