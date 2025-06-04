@@ -16,6 +16,7 @@ img {
 .all-plants {
   display: flex;
   justify-content: center;
+  margin: 32px;
 }
 
 /* do not edit this footer */
