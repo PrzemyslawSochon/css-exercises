@@ -20,7 +20,7 @@ body {
 .left-edge, .right-edge {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 16px;
 }
 
 .profile-image {
