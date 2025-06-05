@@ -9,6 +9,15 @@ body {
   flex-direction: column;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-links, .right-links {
+  display: flex;
+}
+
 .content {
   flex: 1 0 auto;
 }
