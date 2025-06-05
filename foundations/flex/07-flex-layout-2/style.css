@@ -12,8 +12,8 @@ body {
   color: white;
   display: flex;
   align-items: center;
-  padding: 0 8px;
-  font: bold 32px Arial, sans-serif; 
+  padding: 0 16px;
+  font: 900 32px Arial, sans-serif; 
 }
 
 .content {
