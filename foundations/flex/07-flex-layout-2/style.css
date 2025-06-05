@@ -13,7 +13,8 @@ body {
   display: flex;
   align-items: center;
   padding: 0 16px;
-  font: 900 32px Arial, sans-serif; 
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .content {
