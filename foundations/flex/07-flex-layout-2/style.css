@@ -34,6 +34,11 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  flex: 1 1 0;
+}
+
+.cards-container {
+  flex: 5 1 0;
 }
 
 .card {
