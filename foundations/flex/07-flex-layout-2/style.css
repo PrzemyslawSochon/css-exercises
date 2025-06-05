@@ -32,15 +32,14 @@ body {
 }
 
 .sidebar {
-  min-width: 300px;
+  width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  flex: 1 0 0;
+  flex: 0 0 auto;
   padding: 16px;
 }
 
 .cards-container {
-  flex: 5 0 0;
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
